@@ -1,0 +1,16 @@
+{
+  "firstName": "Harry",
+  "lastName": "Potter",
+  "address": [
+    {
+      "street": "abc",
+      "city": "HYD",
+      "state": "TL"
+    },
+    {
+      "street": "xyz",
+      "city": "BOM",
+      "state": "MH"
+    }
+  ]
+}

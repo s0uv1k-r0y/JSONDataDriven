@@ -1,0 +1,16 @@
+[
+  {
+    "users": {
+      "result": "Valid User",
+      "password": "test@1234",
+      "username": "remi.jullian@accenture.com"
+    }
+  },
+  {
+    "users": {
+      "result": "Valid User",
+      "password": "test@1234",
+      "username": "remi@accenture.com"
+    }
+  }
+]
